@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Features
-1. SignUp: User can signup to this application by entering the required details on the signup form.
+1. SignUp: User can signup to this application by entering the required details on the signup form. This fetaure makes use of Firebase's login signup with email address and password authentication method.
 2. Login: Once user has signed up for the application, user can enter the minimal required details to access the applicaiton
 3. Create a Post: Once user lands on the homepage, user can enter the required details in the input box having placeholder 'Start your post' and then press Enter key to create a post.
 
